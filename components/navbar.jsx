@@ -44,6 +44,12 @@ export default function Navbar() {
               Poleras
             </Link>
             <Link
+              href="/categoria/polerones"
+              className="text-sm font-medium hover:text-gray-600 dark:hover:text-gray-300"
+            >
+              Polerones
+            </Link>
+            <Link
               href="/categoria/pantalones"
               className="text-sm font-medium hover:text-gray-600 dark:hover:text-gray-300"
             >
@@ -118,6 +124,13 @@ export default function Navbar() {
                   onClick={closeMenu}
                 >
                   Poleras
+                </Link>
+                <Link
+                  href="/categoria/polerones"
+                  className="text-xl font-medium hover:text-gray-600 dark:hover:text-gray-300"
+                  onClick={closeMenu}
+                >
+                  Polerones
                 </Link>
                 <Link
                   href="/categoria/pantalones"

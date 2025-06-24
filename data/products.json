@@ -32,7 +32,7 @@
   {
     "id": "4",
     "name": "Polera Oversize",
-    "description": "Camiseta de corte oversize con hombros caídos. Fabricada en algodón de alta calidad.",
+    "description": "Polera de corte oversize con hombros caídos. Fabricada en algodón de alta calidad.",
     "price": 24990,
     "category": "poleras",
     "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
@@ -78,5 +78,45 @@
     "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
     "sizes": ["S", "M", "L", "XL"],
     "addedDate": "2023-11-12T15:30:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Polerón Básico",
+    "description": "Polerón clásico con capucha y bolsillo frontal. Perfecto para el día a día y actividades casuales.",
+    "price": 29990,
+    "category": "polerones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "addedDate": "2024-01-10T09:00:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Polerón Oversize",
+    "description": "Polerón de corte oversize con capucha amplia. Ideal para un look relajado y cómodo.",
+    "price": 34990,
+    "category": "polerones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L", "XL"],
+    "addedDate": "2024-01-15T11:30:00Z"
+  },
+  {
+    "id": "11",
+    "name": "Polerón Sin Capucha",
+    "description": "Polerón minimalista sin capucha con cuello redondo. Fabricado en algodón premium.",
+    "price": 27990,
+    "category": "polerones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "addedDate": "2024-01-20T14:15:00Z"
+  },
+  {
+    "id": "12",
+    "name": "Polerón con Cierre",
+    "description": "Polerón con cierre frontal y capucha. Perfecto para entrenamientos y actividades al aire libre.",
+    "price": 39990,
+    "category": "polerones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "addedDate": "2024-01-25T16:45:00Z"
   }
 ]

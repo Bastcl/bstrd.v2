@@ -51,6 +51,7 @@ export default async function AdminPage() {
                     </SelectTrigger>
                     <SelectContent>
                       <SelectItem value="poleras">Poleras</SelectItem>
+                      <SelectItem value="polerones">Polerones</SelectItem>
                       <SelectItem value="pantalones">Pantalones</SelectItem>
                       <SelectItem value="accesorios">Accesorios</SelectItem>
                     </SelectContent>
@@ -69,7 +70,7 @@ export default async function AdminPage() {
               <div className="grid gap-3">
                 <Label htmlFor="sizes">Tallas Disponibles</Label>
                 <div className="flex flex-wrap gap-2">
-                  {["XS", "S", "M", "L", "XL"].map((size) => (
+                  {["XS", "S", "M", "L", "XL", "XXL"].map((size) => (
                     <label key={size} className="flex items-center space-x-2">
                       <Input type="checkbox" className="w-4 h-4" id={`size-${size}`} />
                       <span>{size}</span>
@@ -103,6 +104,10 @@ export default async function AdminPage() {
                   <div className="flex justify-between">
                     <p>Poleras</p>
                     <p className="font-medium">{categoryCounts.poleras || 0}</p>
+                  </div>
+                  <div className="flex justify-between">
+                    <p>Polerones</p>
+                    <p className="font-medium">{categoryCounts.polerones || 0}</p>
                   </div>
                   <div className="flex justify-between">
                     <p>Pantalones</p>

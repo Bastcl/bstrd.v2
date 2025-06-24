@@ -28,13 +28,21 @@ export default function Home() {
       </div>
 
       {/* Banners de categorías */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8 mb-12">
-        {/* Banner Camisetas */}
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 md:gap-8 mb-12">
+        {/* Banner Poleras */}
         <CategoryBanner
           title="Poleras"
           description="Diseños minimalistas para tu día a día"
           imageUrl="/placeholder.svg?height=800&width=600"
           href="/categoria/poleras"
+        />
+
+        {/* Banner Polerones */}
+        <CategoryBanner
+          title="Polerones"
+          description="Comodidad y estilo para el clima frío"
+          imageUrl="/placeholder.svg?height=800&width=600"
+          href="/categoria/polerones"
         />
 
         {/* Banner Pantalones */}
@@ -63,7 +71,7 @@ export default function Home() {
             Descubre las últimas tendencias en moda minimalista con nuestra nueva colección.
           </p>
           <Link
-            href="/categoria/poleras"
+            href="/categoria/polerones"
             className="bg-white text-black px-6 py-3 rounded-none hover:bg-gray-100 transition-colors"
           >
             Comprar Ahora
