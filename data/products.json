@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Camiseta Básica Negra",
+    "description": "Camiseta minimalista de algodón orgánico con corte relajado. Perfecta para cualquier ocasión.",
+    "price": 19990,
+    "category": "camisetas",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "addedDate": "2023-05-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Pantalón Recto",
+    "description": "Pantalón de corte recto con cintura elástica. Confeccionado en algodón premium para máxima comodidad.",
+    "price": 34990,
+    "category": "pantalones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L", "XL"],
+    "addedDate": "2023-06-20T14:45:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Gorra Minimalista",
+    "description": "Gorra de algodón con diseño minimalista y ajuste trasero.",
+    "price": 15990,
+    "category": "accesorios",
+    "images": ["/placeholder.svg?height=800&width=800"],
+    "sizes": ["Única"],
+    "addedDate": "2023-07-05T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Camiseta Oversize",
+    "description": "Camiseta de corte oversize con hombros caídos. Fabricada en algodón de alta calidad.",
+    "price": 24990,
+    "category": "camisetas",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L", "XL"],
+    "addedDate": "2023-08-10T16:20:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Pantalón Cargo",
+    "description": "Pantalón cargo con múltiples bolsillos. Perfecto para un look urbano y funcional.",
+    "price": 39990,
+    "category": "pantalones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L"],
+    "addedDate": "2023-09-01T11:30:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Bolso Tote",
+    "description": "Bolso tote de lona resistente con asas reforzadas. Espacioso y versátil.",
+    "price": 29990,
+    "category": "accesorios",
+    "images": ["/placeholder.svg?height=800&width=800"],
+    "sizes": ["Única"],
+    "addedDate": "2023-09-15T13:45:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Camiseta Manga Larga",
+    "description": "Camiseta de manga larga con cuello redondo. Ideal para las temporadas más frías.",
+    "price": 22990,
+    "category": "camisetas",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "addedDate": "2023-10-05T10:00:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Pantalón Jogger",
+    "description": "Jogger con cintura y puños elásticos. Cómodo y estilizado para uso diario.",
+    "price": 32990,
+    "category": "pantalones",
+    "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
+    "sizes": ["S", "M", "L", "XL"],
+    "addedDate": "2023-11-12T15:30:00Z"
+  }
+]
