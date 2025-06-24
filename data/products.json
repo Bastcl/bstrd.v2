@@ -1,10 +1,10 @@
 [
   {
     "id": "1",
-    "name": "Camiseta Básica Negra",
-    "description": "Camiseta minimalista de algodón orgánico con corte relajado. Perfecta para cualquier ocasión.",
+    "name": "Polera Básica Negra",
+    "description": "Polera minimalista de algodón orgánico con corte relajado. Perfecta para cualquier ocasión.",
     "price": 19990,
-    "category": "camisetas",
+    "category": "poleras",
     "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "addedDate": "2023-05-15T10:30:00Z"
@@ -31,10 +31,10 @@
   },
   {
     "id": "4",
-    "name": "Camiseta Oversize",
+    "name": "Polera Oversize",
     "description": "Camiseta de corte oversize con hombros caídos. Fabricada en algodón de alta calidad.",
     "price": 24990,
-    "category": "camisetas",
+    "category": "poleras",
     "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
     "sizes": ["S", "M", "L", "XL"],
     "addedDate": "2023-08-10T16:20:00Z"
@@ -61,10 +61,10 @@
   },
   {
     "id": "7",
-    "name": "Camiseta Manga Larga",
-    "description": "Camiseta de manga larga con cuello redondo. Ideal para las temporadas más frías.",
+    "name": "Polera Manga Larga",
+    "description": "Polera de manga larga con cuello redondo. Ideal para las temporadas más frías.",
     "price": 22990,
-    "category": "camisetas",
+    "category": "poleras",
     "images": ["/placeholder.svg?height=800&width=800", "/placeholder.svg?height=800&width=800"],
     "sizes": ["XS", "S", "M", "L", "XL"],
     "addedDate": "2023-10-05T10:00:00Z"

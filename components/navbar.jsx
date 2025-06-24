@@ -38,10 +38,10 @@ export default function Navbar() {
               Inicio
             </Link>
             <Link
-              href="/categoria/camisetas"
+              href="/categoria/poleras"
               className="text-sm font-medium hover:text-gray-600 dark:hover:text-gray-300"
             >
-              Camisetas
+              Poleras
             </Link>
             <Link
               href="/categoria/pantalones"
@@ -113,11 +113,11 @@ export default function Navbar() {
                   Inicio
                 </Link>
                 <Link
-                  href="/categoria/camisetas"
+                  href="/categoria/poleras"
                   className="text-xl font-medium hover:text-gray-600 dark:hover:text-gray-300"
                   onClick={closeMenu}
                 >
-                  Camisetas
+                  Poleras
                 </Link>
                 <Link
                   href="/categoria/pantalones"

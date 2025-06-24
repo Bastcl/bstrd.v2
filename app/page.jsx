@@ -19,7 +19,7 @@ export default function Home() {
             Descubre nuestra nueva colección con diseños minimalistas y elegantes.
           </p>
           <Link
-            href="/categoria/camisetas"
+            href="/categoria/poleras"
             className="bg-white text-black px-6 py-3 rounded-none hover:bg-gray-100 transition-colors"
           >
             Ver Colección
@@ -31,10 +31,10 @@ export default function Home() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-4 md:gap-8 mb-12">
         {/* Banner Camisetas */}
         <CategoryBanner
-          title="Camisetas"
+          title="Poleras"
           description="Diseños minimalistas para tu día a día"
           imageUrl="/placeholder.svg?height=800&width=600"
-          href="/categoria/camisetas"
+          href="/categoria/poleras"
         />
 
         {/* Banner Pantalones */}
@@ -63,7 +63,7 @@ export default function Home() {
             Descubre las últimas tendencias en moda minimalista con nuestra nueva colección.
           </p>
           <Link
-            href="/categoria/camisetas"
+            href="/categoria/poleras"
             className="bg-white text-black px-6 py-3 rounded-none hover:bg-gray-100 transition-colors"
           >
             Comprar Ahora

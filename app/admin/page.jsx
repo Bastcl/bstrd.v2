@@ -50,7 +50,7 @@ export default async function AdminPage() {
                       <SelectValue placeholder="Seleccionar categoría" />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="camisetas">Camisetas</SelectItem>
+                      <SelectItem value="poleras">Poleras</SelectItem>
                       <SelectItem value="pantalones">Pantalones</SelectItem>
                       <SelectItem value="accesorios">Accesorios</SelectItem>
                     </SelectContent>
@@ -101,8 +101,8 @@ export default async function AdminPage() {
                 <p className="text-sm font-medium text-gray-500 dark:text-gray-400">Categorías</p>
                 <div className="mt-2 space-y-2">
                   <div className="flex justify-between">
-                    <p>Camisetas</p>
-                    <p className="font-medium">{categoryCounts.camisetas || 0}</p>
+                    <p>Poleras</p>
+                    <p className="font-medium">{categoryCounts.poleras || 0}</p>
                   </div>
                   <div className="flex justify-between">
                     <p>Pantalones</p>
