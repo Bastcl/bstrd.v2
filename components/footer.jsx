@@ -15,7 +15,7 @@ export default function Footer() {
 
           <div className="flex items-center space-x-6">
             <Link
-              href="https://instagram.com"
+              href="https://www.instagram.com/bstrd_cl/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-black dark:text-gray-400 dark:hover:text-white"
